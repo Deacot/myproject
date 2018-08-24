@@ -24,4 +24,7 @@ public class JFame extends JFrame{
 	public static void main(String[] args) {
 		new JFame().CreateJFame();
 	}
+	
+	
+	
 }
